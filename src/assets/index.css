@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-orange-800 text-neutral-50;
+  /*height: 300vh;*/
+  font-family: Bitter, cursive;
+  scroll-behavior: smooth;
+}
+
+h1, h2, a {
+  font-family: 'Dancing Script', cursive;
+}
+
+canvas {
+  z-index: -1;
+}

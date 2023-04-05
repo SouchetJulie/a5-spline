@@ -1,0 +1,11 @@
+#spline {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.text {
+  @apply mt-[100vh] px-16 text-center text-4xl tracking-wider leading-normal
+}
