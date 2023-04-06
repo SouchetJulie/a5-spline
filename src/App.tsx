@@ -34,7 +34,7 @@ export default function App() {
           une expérience de thé complète.
         </div>
       </Text>
-      <Text className="text-5xl mt-[70vh] text-center">Contactez-nous</Text>
+      <Text className="text-5xl mt-[140vh] text-center">Contactez-nous</Text>
       <div className="text mt-8 mb-[30vh] z-10"><a className="cursor-pointer" href="mailto:fausse@adresse.com">✉️
         fausse@adresse.com</a></div>
       <Navbar bottom/>
