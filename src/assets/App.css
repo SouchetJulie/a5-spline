@@ -7,5 +7,5 @@
 }
 
 .text {
-  @apply mt-[100vh] px-16 text-center text-4xl tracking-wider leading-normal
+  @apply mt-[200vh] px-16 text-center text-4xl tracking-wider leading-normal
 }
