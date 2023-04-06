@@ -16,7 +16,6 @@ export const Navbar: FunctionComponent<NavbarProps> = ({bottom}) => {
     )
   }
 
-
   return (
     <header className={classes}>
       <h1>Envies de thé</h1>
