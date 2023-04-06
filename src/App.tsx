@@ -28,7 +28,7 @@ export default function App() {
       </Text>
       <Text color="#0f172a" className="flex justify-between">
         <div className="text-left w-1/3">Profitez de notre sélection d'accessoires de thé de qualité, conçus pour vous
-          aider à préparer votre tasse de thé parfait.
+          aider à préparer votre tasse de thé parfaite.
         </div>
         <div className="text-right w-1/3">Théières, tasses, infuseurs - nous avons tout ce dont vous avez besoin pour
           une expérience de thé complète.
