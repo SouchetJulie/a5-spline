@@ -35,7 +35,7 @@ export default function App() {
         </div>
       </Text>
       <Text className="text-5xl mt-[140vh] text-center">Contactez-nous</Text>
-      <div className="text mt-8 mb-[30vh] z-10"><a className="cursor-pointer" href="mailto:fausse@adresse.com">✉️
+      <div className="text mt-8 mb-[20vh] z-10"><a className="cursor-pointer" href="mailto:fausse@adresse.com">✉️
         fausse@adresse.com</a></div>
       <Navbar bottom/>
     </>
